@@ -9,20 +9,35 @@
 
 #### *Dataset Attributes:*
 id: Unique identifier for each patient.
+
 age: Age of the patient in years.
+
 origin: Place of study.
+
 sex: Gender of the patient (Male/Female).
+
 cp: Chest pain type ([typical angina, atypical angina, non-anginal, asymptomatic]).
+
 trestbps: Resting blood pressure (in mm Hg on admission to the hospital).
+
 chol: Serum cholesterol in mg/dl.
+
 fbs: Fasting blood sugar > 120 mg/dl.
+
 restecg: Resting electrocardiographic results ([normal, stt abnormality, lv hypertrophy]).
+
 thalach: Maximum heart rate achieved.
+
 exang: Exercise-induced angina (True/False).
+
 oldpeak: ST depression induced by exercise relative to rest.
+
 slope: The slope of the peak exercise ST segment.
+
 ca: Number of major vessels (0-3) colored by fluoroscopy.
+
 thal: Types ([normal; fixed defect; reversible defect]).
+
 num: The predicted attribute.
 
 
