@@ -1,4 +1,5 @@
-# Heart Disease Prediction by Machine Learning
+# Predicting Heart Disease Using 3 Machine Learning Classification Models
+
 
 ## Overview
 ### This project utilizes Python coding, leveraging the power of popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn for machine learning. The goal is to predict the likelihood of heart disease based on various clinical parameters and attributes.
