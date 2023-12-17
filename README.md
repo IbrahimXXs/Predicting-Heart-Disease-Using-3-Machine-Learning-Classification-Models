@@ -1,12 +1,12 @@
-#Heart Disease Prediction by Machine Learning
+# Heart Disease Prediction by Machine Learning
 
-##Overview
-###This project utilizes Python coding, leveraging the power of popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn for machine learning. The goal is to predict the likelihood of heart disease based on various clinical parameters and attributes.
-
-
+## Overview
+### This project utilizes Python coding, leveraging the power of popular libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Scikit-Learn for machine learning. The goal is to predict the likelihood of heart disease based on various clinical parameters and attributes.
 
 
-###Dataset Attributes:
+
+
+### Dataset Attributes:
 id: Unique identifier for each patient.
 age: Age of the patient in years.
 origin: Place of study.
@@ -27,7 +27,7 @@ num: The predicted attribute.
 
 
 
-###Three classification models were employed:
+### Three classification models were employed:
 Logistic Regression
 K-Nearest Neighbors (KNN)
 Random Forest
@@ -44,7 +44,7 @@ Evaluation metrics were calculated using cross-validation, and hyperparameter tu
 
 
 
-###Dependencies
+### Dependencies
 Make sure you have the following Python libraries installed:
 NumPy
 Pandas
@@ -54,11 +54,11 @@ Scikit-Learn
 
 
 
-###Usage
+### Usage
 Clone the repository and run the provided Python script to execute the heart disease prediction models. Customize the models, parameters, or dataset as needed for your specific use case.
 
 
 
-###License
+### License
 This project is licensed under the MIT License.
 Feel free to contribute, provide feedback, or raise issues if you encounter any problems. Happy coding!
