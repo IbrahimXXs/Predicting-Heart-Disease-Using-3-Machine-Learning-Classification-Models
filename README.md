@@ -28,9 +28,11 @@ num: The predicted attribute.
 
 
 #### *Three classification models were employed:*
-Logistic Regression
-K-Nearest Neighbors (KNN)
-Random Forest
+1- Logistic Regression
+
+2- K-Nearest Neighbors (KNN)
+
+3- Random Forest
 
 Additional techniques applied:
 Hyperparameter Tuning
